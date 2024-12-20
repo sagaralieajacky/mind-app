@@ -1,0 +1,15 @@
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Ignore AppData and other unnecessary folders
+AppData/
