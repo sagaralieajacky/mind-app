@@ -8,12 +8,3 @@
 - **Mindfulness Exercises:** Access a variety of guided meditation and breathing exercises to help reduce stress and improve focus.
 - **Therapy Reminders:** Set personalized reminders for therapy sessions or mental health check-ins to stay on top of your well-being.
 
-## Installation
-
-Follow these steps to get the project up and running on your local machine:
-
-## Installation
-1. Clone this repository.
-2. Install dependencies using:
-   ```bash
-   npm install
